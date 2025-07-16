@@ -24,7 +24,7 @@
 
 观看和收听高质量的内容。
 
-通过使用 [星链云](https://jump.p6p.net/50) 应用，您可以观看各种流媒体视频，包括Netflix、Disney、HBO、TVB、Happyon、AbemaTV等，还可以收听流媒体音乐，包括Spotify、Pandora等。
+通过使用 [星链云](https://tiao.bid/50) 应用，您可以观看各种流媒体视频，包括Netflix、Disney、HBO、TVB、Happyon、AbemaTV等，还可以收听流媒体音乐，包括Spotify、Pandora等。
 
 ## 设备保护
 
